@@ -1,0 +1,40 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+header,nav{
+    
+    margin-top: 1px;
+    height: 55px;
+    margin-bottom: 10px;
+}
+
+nav li{
+    display:inline-block;
+    margin-left: 50px;
+    margin-top: 15px;
+    
+}
+
+header a{
+    text-decoration: none;
+    color:rgb(25, 55, 63) ;
+    font-weight: 900;
+   
+    
+
+}
+header a:hover{
+    color: coral;
+}
+
+.togu{
+    color: rgb(25, 55, 63);
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 900;
+}
